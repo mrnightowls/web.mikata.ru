@@ -1,7 +1,3 @@
-# web.mikata.ru
-
-
-
 
 <html lang="en-US">
  <head> 
